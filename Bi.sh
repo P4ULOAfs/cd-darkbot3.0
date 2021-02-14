@@ -83,8 +83,8 @@ pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
 pkg install tesseract
-unzip w.zip
-cd w
+unzip kp-main.zip
+cd kp-main
 bash install.sh
 sleep 2
 echo ""

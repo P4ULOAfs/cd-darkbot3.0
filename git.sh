@@ -77,14 +77,14 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/Darkksinh/kp
+git clone https://github.com/P4ULOAfs/kp
 cd kp
 pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
 pkg install tesseract
-unzip w.zip
-cd w
+unzip kp-main.zip
+cd kp-main
 bash install.sh
 sleep 2
 echo ""
